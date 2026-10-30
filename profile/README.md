@@ -6,9 +6,7 @@ The goal is that you can build a whole map without ever opening the World Editor
 
 Website: [wc3.dev](https://wc3.dev)
 
-## Moonwell
-
-<img src="mw.gif" alt="Moonwell" width="..." />
+<center><img src="mw.gif" alt="Moonwell" width="..." /></center>
 
 Moonwell is a C# framework for Warcraft III maps. You write your map's code and object data in C#, and Moonwell
 builds the map.
